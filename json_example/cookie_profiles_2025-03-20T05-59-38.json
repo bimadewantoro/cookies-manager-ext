@@ -1,0 +1,90 @@
+{
+  "Account 1": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "/4XZbkVCBBZP8iOcUezzHc31gyxK5QQ0OESXpkJXOYM:Vkor26v56uq0S5MlamKI/8xlaxi4zyhWv9/FCcDKiqo"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mjk0NjYyNTQzLCJlbWFpbCI6Im1hcmRlbWkzQGtpbGx1YS5jbG91ZCIsImlzX3N1cGVydXNlciI6ZmFsc2UsImdyb3VwX2lkcyI6W119.zpWYMkxNYMUNvQENc4a85jzxSbpP6XOrkLaydVbE3mA"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "zmo1v2pnz9vbfi1ejtt1qjhveaz8hydc"
+      },
+      {
+        "name": "csrftoken",
+        "value": "oa98cy03AVhW6kcbrzLKnEvRMpL64BNQ"
+      }
+    ],
+    "domain": "www.udemy.com",
+    "urlToOpen": "https://www.udemy.com/personal/home"
+  },
+  "Account 2": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "x6OQ5Jm7AoaaqROXXTQZWLNm/Ep7i9u3J+1mVT/k9wk:+5dLYWd6c8UT8dWz847FGF0QciSZroABt1Taa8CSd48"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mjk0NjYyMzU5LCJlbWFpbCI6Im1hcmRlbWkxQGtpbGx1YS5jbG91ZCIsImlzX3N1cGVydXNlciI6ZmFsc2UsImdyb3VwX2lkcyI6W119.dpo52ZVytvwKeeYWJIrewRRRFXgainXBbi0beTxEyFk"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "ngauqcfwfm7204gxchj5yo974gmlil2b"
+      },
+      {
+        "name": "csrftoken",
+        "value": "WHeQRmcstdN0y1XwXm0t2sshRBa1tcQ6"
+      }
+    ],
+    "domain": "www.udemy.com",
+    "urlToOpen": "https://www.udemy.com/personal/home"
+  },
+  "Account 3": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "umDTOQa8paMVZgXJXn+5L0Buk2pn6D4FlWe1ZGT3a/4:DavjLFnHEllk4wJ9jTrjY9JTRGFylpKGAdwE3Ar+oGc"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjkzMDI1OTA3LCJlbWFpbCI6InBsZW5hcnk3OWJlZXJzQGljbG91ZC5jb20iLCJpc19zdXBlcnVzZXIiOmZhbHNlLCJncm91cF9pZHMiOltdfQ.xzaC_EHtBj2Mw_Wh3GOJprBMH-oiTyRkk8AuiMJ5I9k"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "70ssz54dudi2d3v8ewelc7dv9avxtqxn"
+      },
+      {
+        "name": "csrftoken",
+        "value": "EWoNC4St9d3TDNuKjXrxUnPwDspfqPkj"
+      }
+    ],
+    "domain": "www.udemy.com",
+    "urlToOpen": "https://www.udemy.com/personal/home"
+  },
+  "Account 4": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "Qs17Uzdxe2IvTCvlBwDG05a81VP6WFzVlAE7hBfWyAQ:8BfvYxrikRTHMKOk+6F5oRf0SK2zZsD0s4ZBYJ8QQjI"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Mjk0NjYyNjU5LCJlbWFpbCI6Im1hcmRlbWk0QGtpbGx1YS5jbG91ZCIsImlzX3N1cGVydXNlciI6ZmFsc2UsImdyb3VwX2lkcyI6W119.44vjnivrknECdKyKNbpKwThUUHczUpUPLDcsmdHs4QQ"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "krns9qa32pymqk1s1j602202gnlg43vs"
+      },
+      {
+        "name": "csrftoken",
+        "value": "7mSfPJoZvtKBzdzt9ocHQrn5Liw6T1F7"
+      }
+    ],
+    "domain": "www.udemy.com",
+    "urlToOpen": "https://www.udemy.com/personal/home"
+  }
+}

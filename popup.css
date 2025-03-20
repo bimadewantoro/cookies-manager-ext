@@ -1,0 +1,143 @@
+body {
+    font-family: Arial, sans-serif;
+    width: 400px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 15px;
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: #333;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+  }
+  
+  .warning {
+    background-color: #fff3cd;
+    color: #856404;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  h3 {
+    margin-top: 0;
+    font-size: 16px;
+    color: #444;
+  }
+  
+  .input-group {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 13px;
+    color: #555;
+  }
+  
+  input[type="text"], select {
+    width: 100%;
+    padding: 6px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .cookie-entry {
+    display: flex;
+    margin-bottom: 8px;
+    align-items: center;
+  }
+  
+  .cookie-name {
+    width: 35%;
+    margin-right: 10px;
+  }
+  
+  .cookie-value {
+    width: 55%;
+    margin-right: 10px;
+  }
+  
+  .remove-cookie {
+    width: 25px;
+    height: 25px;
+    background: #f44336;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 5px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #deleteProfile {
+    background-color: #f44336;
+  }
+  
+  #deleteProfile:hover {
+    background-color: #d32f2f;
+  }
+  
+  #addCookieField {
+    background-color: #2196F3;
+    margin-top: 10px;
+  }
+  
+  #addCookieField:hover {
+    background-color: #0b7dda;
+  }
+  
+  .profile-buttons {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .import-export {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .secondary-btn {
+    background-color: #607d8b;
+    font-size: 12px;
+    width: 48%;
+  }
+  
+  .secondary-btn:hover {
+    background-color: #455a64;
+  }
+  
+  .action-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
