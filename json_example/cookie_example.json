@@ -1,0 +1,68 @@
+{
+  "Account 1": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "some_value"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "some_value"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "some_value"
+      },
+      {
+        "name": "csrftoken",
+        "value": "some_value"
+      }
+    ],
+    "domain": "www.example.com",
+    "urlToOpen": "https://www.example.com/home"
+  },
+  "Account 2": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "some_value"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "some_value"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "some_value"
+      },
+      {
+        "name": "csrftoken",
+        "value": "some_value"
+      }
+    ],
+    "domain": "www.example.com",
+    "urlToOpen": "https://www.example.com/home"
+  },
+  "Account 3": {
+    "cookies": [
+      {
+        "name": "access_token",
+        "value": "some_value"
+      },
+      {
+        "name": "ud_user_jwt",
+        "value": "some_value"
+      },
+      {
+        "name": "dj_session_id",
+        "value": "some_value"
+      },
+      {
+        "name": "csrftoken",
+        "value": "some_value"
+      }
+    ],
+    "domain": "www.example.com",
+    "urlToOpen": "https://www.example.com/home"
+  }
+}
